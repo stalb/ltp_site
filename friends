@@ -5,22 +5,18 @@
         "friends":
         [
             {
-                "username":"Gnuk",
-                "lon" : "2.4",
-                "lat" : "24.242424",
-                "content" : "Je suis maintenant là.",
-                "time":"2012-11-17T18:26:00+01:00"
+                "username":"Jeanne",
+                "lon" : "5.917781",
+                "lat" : "45.564601",
+                "content" : "I'm here.",
+                "time":"2013-03-04T08:15:00+01:00"
             }
             ,
             {
-                "username":"Giu",
-                "lon" : "4.2",
-                "lat" : "42.424242",
-                "time":"2012-12-13T17:12:00+01:00"
-            }
-            ,
-            {
-                "username":"James"
+                "username":"Stephane",
+                "lon" : "5.867066",
+                "lat" : "45.641877",
+                "time":"2013-03-04T07:15:00+01:00"
             }
         ]
     }
