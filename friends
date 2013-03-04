@@ -16,6 +16,7 @@
                 "username":"Stephane",
                 "lon" : "5.867066",
                 "lat" : "45.641877",
+                "content" : "Je suis ici.",
                 "time":"2013-03-04T07:15:00+01:00"
             }
         ]
